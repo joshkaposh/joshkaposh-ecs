@@ -1,0 +1,7 @@
+{
+    "root": "C:\\Users\\rdjos\\OneDrive\\Documents\\dev\\projects\\game-engine\\save-load/client",
+    "canvas_mount_point": "jk_ge_canvas",
+    "System": "src/client/system",
+    "Res": "src/client/resource",
+    "Entity": "src/client/entity"
+}

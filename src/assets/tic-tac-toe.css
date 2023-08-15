@@ -1,0 +1,11 @@
+#boxes {
+    background-color: salmon;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.box {
+    color: black;
+    border: 1px solid black;
+}

@@ -1,0 +1,10 @@
+#jk_ge_canvas {
+    display: flex;
+    /* text-align: left; */
+    position: relative;
+}
+
+#canvas {
+    position: absolute;
+    z-index: -1;
+}
